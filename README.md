@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# SQL-Data-Warehouse-Project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 Welcome to the ** Data Warehouse and Analytics Project ** repository!🚀 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
@@ -28,11 +28,25 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 These insights empower stakeholders with key bussiness metrics, enabling strategic decision-making.
 
-##License
+# Data Architecture
+
+The data architecture for this project follows the Medallion Architecture with three layers: Bronze, Silver, and Gold.
+
+You can see the high-level architecture here:
+
+[![High-Level Architecture](https://github.com/Angelgralsh/sql-data-warehouse-project/blob/main/docs/data_architecture.png)
+
+* **1. Bronze Layer**: Stores raw data as-is from source systems. Data is ingested from CSV files into a SQL Server Database.
+
+* **2. Silver Layer**: This layer involves data cleansing, standardization, and normalization to prepare the data for analysis.
+
+* **3. Gold Layer**: Contains business-ready data, modeled into a star schema for reporting and analytics.
+
+### License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## # About Me
+### About Me
 Hi there! I'm ** Angelica Grajales **  I'm an IT professional and passionate about learning new concepts and tools
 
 ---
