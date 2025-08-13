@@ -47,7 +47,7 @@ You can see the high-level architecture here:
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ### About Me
-Hi there! I'm ** Angelica Grajales **  I'm an IT professional and passionate about learning new concepts and tools
+Hi there! I'm **Angelica Grajales**  I'm an IT professional and passionate about learning new concepts and tools
 
 ---
 
